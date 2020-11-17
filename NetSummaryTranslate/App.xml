@@ -1,0 +1,4 @@
+<config>
+  <add key="百度APPID" value="11" />
+  <add key="百度SecretKey" value="22" />
+</config>
