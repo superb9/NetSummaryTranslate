@@ -1,5 +1,7 @@
 # NetSummaryTranslate
-对Net 动态库xml英文进行批量翻译. 特别适用以下举例场景:
+
+批量翻译VS"摘要"，让AspNetCore彻底变成中文智能提示，参考本项目都可实现；Microsoft.AspNetCore.App.Ref “注释摘要" 批量翻译成中文 zh-hans，开发环境：Visual Studio 2019，WinForm，.NetCore3.1，
+在 https://github.com/yy520a/NetCore.zh-hans 项目上进行的完善,完善了UI,并进行了多线程处理,大大缩短了翻译时间.
 
 场景1:.Net 5.0 官方发布时没有提供 Microsoft.AspNetCore.App Visual Studio 智能提示intellisense 中文语言包,本人是在官方原英文包基础上,使用百度翻译api进行了整体翻译,示例如下:
 Represents an implementation of the HTTP Context class. 
